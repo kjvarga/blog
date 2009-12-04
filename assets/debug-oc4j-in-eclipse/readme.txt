@@ -1,0 +1,1 @@
+These are screenshots uploaded to Blogger on 2008-11-26 and referenced in my blog post http://kjvarga.blogspot.com/2008/11/debugging-applications-running-on-oc4j.html
